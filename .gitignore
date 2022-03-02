@@ -1,0 +1,10 @@
+# ignore wistia api key
+class-wistia-videos-api.php
+
+# ignore vendors folder
+vendor
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite

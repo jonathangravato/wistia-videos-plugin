@@ -1,0 +1,56 @@
+/**
+* All of the CSS for your admin-specific functionality should be
+* included in this file.
+*/
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.hidden {
+    display: none;
+}
+
+.no-border {
+    border: none !important;
+}
+
+.wistia-videos-content {
+    margin-bottom: 20px;
+}
+
+.wistia-videos-admin-table:not(.sub-page-table) {
+    width: 100%;
+}
+
+.wistia-videos-admin-table {
+    border-spacing: 0;
+}
+
+.wistia-videos-admin-table tr th,
+.wistia-videos-admin-table tr td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.wistia-videos-submit-wrap {
+    padding: 20px 0;
+}
+
+.form-submit {
+    margin-top: 15px;
+}
+
+  .danger {
+    background-color: red;
+    border: none;
+    color: #fff;
+    font-weight:  bold;
+    padding-bottom: 3px;
+}
+
+.gold {
+    color: #c48f25 !important;
+    font-weight: bold;
+}

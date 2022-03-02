@@ -1,0 +1,5 @@
+{
+    "require": {
+        "automattic/wistia-php": "^1.0"
+    }
+}
